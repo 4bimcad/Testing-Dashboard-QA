@@ -19,8 +19,8 @@ The tests cover the following aspects:
 ## 🛠 Setup Instructions
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/react-admin-dashboard-tests.git
-cd react-admin-dashboard-tests
+git clone https://github.com/your-username/Testing-Dashboard-QA.git
+cd Testing-Dashboard-QA
 ```
 
 ### 2. Install Dependencies
